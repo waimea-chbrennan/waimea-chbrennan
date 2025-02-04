@@ -1,5 +1,6 @@
 # waimea-chbrennan
-__My name is *Connor Brennan* and I am a student at Waimea College!__
+__My name is *Connor Brennan* and I love technology!__
+Here you will find my educational GitHub account with various projects
 Check out my personal [GitHub](github.com/axia4xy)
 
 ## My Interests, related to computers
