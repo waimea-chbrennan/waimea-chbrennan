@@ -1,7 +1,6 @@
 # waimea-chbrennan
 __My name is *Connor Brennan* and I love technology!__
 Here you will find my educational GitHub account with various projects
-I am quite the nerd
 
 ## My Interests, related to computers
 - Casio calculator programming
